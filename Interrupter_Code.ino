@@ -2,7 +2,7 @@
   Course: VANT151
   Description: This code demonstrates the interrupt method. 
                This will make the program update information every 0.2 seconds.
-  Programmer: Visal Saosuo
+  Programmer: N/A
   Date: 5/26/2021
  */
 #include <MsTimer2.h>
